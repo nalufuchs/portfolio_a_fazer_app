@@ -1,4 +1,6 @@
-#Portfolio: **Aplicativo para visualização de tarefas - checklist de tarefas a realizar - "todolist"
+# Portfolio: Aplicativo para visualização de tarefas 
+
+## Checklist de tarefas a realizar - "todolist" 
 
 
 Aplicação para checklist de Coisas a Fazer (Todo-List) utilizando vue 3 & nodejs & expressjs server & sqlite & vite? (front-end e back-end), 
